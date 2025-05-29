@@ -21,4 +21,5 @@ This project implements a hybrid log classification framework that combines thre
 ## System Architecture
 The hybrid architecture dynamically selects the most suitable classification strategy based on the complexity and availability of labeled data, ensuring both precision and scalability in log analysis.
 
-![image](https://github.com/user-attachments/assets/6bc60588-a6d9-48b7-ab84-ca5128d5ec21)
+![image](https://github.com/user-attachments/assets/2f40df39-dc6a-4578-a0aa-ea20f009f2db)
+
